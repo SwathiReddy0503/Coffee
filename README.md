@@ -1,2 +1,2 @@
-# Coffee
- building webpage using html and css
+# coffee
+ building website with html and css
